@@ -11,4 +11,5 @@ Input necessary values for calculation and run PHP code. Simple as that. Instruc
 I come up to this old video, and I'm sure it can help you to understand concept of calculating Keno probabilities:
 https://www.youtube.com/watch?v=NP2IpRwuQd4
 
-
+# bitcointalk.org thread
+https://bitcointalk.org/index.php?topic=5532911.new#new
